@@ -15,7 +15,7 @@ class App extends Composer
         '*',
     ];
 
-    /**  test
+    /** 
      * Retrieve the site name.
      */
     public function siteName(): string
