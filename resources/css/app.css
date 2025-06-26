@@ -2766,6 +2766,7 @@ p.datess {
     color: #609B15;
     line-height: 18px;
     margin: 0 0 40px;
+    display: block;
 }
 
 .global-heading {
