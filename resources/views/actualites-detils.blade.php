@@ -12,12 +12,13 @@
   <div class="container max-width1700">
     <div class="row align-items-end">
       <div class="col-md-8">
-        <h6 class="taglines">Catégorie</h6>
+        <span class="taglines">Catégorie</span>
         <h1 class="global-heading">Démarrages de chantier en série pour Terralia Normandie</h1>  
       </div>
     </div>       
   </div>   
-</div>
+</div> 
+
 
 <div class="custom-gallery-wrapper">
    <div id="customGalleryCarousel" class="carousel slide custom-gallery-carousel" data-bs-ride="carousel">
