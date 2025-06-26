@@ -464,7 +464,7 @@ Template Name: Home Page
 
         {{-- LEFT POST (SINGLE) --}}
         <?php
-        // why pdjfgbp\jasopdfgbl
+        // 
   if ($tip_left_event_post) {
     setup_postdata($tip_left_event_post); // Set up global post data
     $thumbnail_url = get_the_post_thumbnail_url($tip_left_event_post->ID, 'medium');
