@@ -11,7 +11,7 @@
   <div class="container max-width1700">
     <div class="row align-items-end justify-content-center text-center">
       <div class="col-md-9 col-lg-8 col-xl-6">
-        <h6 class="taglines">erreur 404</h6>
+        <span class="taglines">erreur 404</span>
         <h1 class="global-heading">Terrain non constructible 
         <svg width="80" height="108" viewBox="0 0 80 108" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M35.6338 51.5739L28.7168 108.601L31.1856 108.899L38.1027 51.872L35.6338 51.5739Z" fill="#0B0B0B"/>
