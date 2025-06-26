@@ -11,7 +11,8 @@
 <div class="contact-us-sec">
  <div class="container-fluid">
   <div class="row">
-    <!-- Left section -->
+    <!-- Left section --> 
+     
     <div class="col-lg-6 space-between">
         <div class="top-contact-sec">
           <span class="taglines">Nous contacter</span>
