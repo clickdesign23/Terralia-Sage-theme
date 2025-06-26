@@ -12,7 +12,7 @@
   <div class="container max-width1700">
     <div class="row align-items-end">
       <div class="col-md-6">
-        <h6 class="taglines">Nous contacter</h6>
+        <span class="taglines">Nous contacter</span>
         <h1 class="global-heading">Contacter une <br> agence Terralia <br>Immobilier</h1>  
       </div>
       <div class="col-md-6">
