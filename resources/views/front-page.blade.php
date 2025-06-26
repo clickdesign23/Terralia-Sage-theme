@@ -26,6 +26,7 @@ Template Name: Home Page
     <div class="container-fluid">
     <div class="row">
       <!-- Content Column -->
+       <!-- gbuiahbdsvfsdj -->
       <div class="col-lg-6 d-flex align-items-start h-100 position-relative overflow-hidden">
       <div class="accordion width" id="accordionHorizontalExample">
         <div class="card">
