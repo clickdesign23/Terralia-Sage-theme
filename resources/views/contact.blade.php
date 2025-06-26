@@ -14,7 +14,7 @@
     <!-- Left section -->
     <div class="col-lg-6 space-between">
         <div class="top-contact-sec">
-          <h6 class="taglines">Nous contacter</h6>
+          <span class="taglines">Nous contacter</span>
           <h1 class="global-heading">Contacter<br>l’agence de Metz</h1>
           <p>Aliquam volutpat magna pellentesque mattis nullam. Dolor enim tempus morbi tortor consectetur tellus velit eget velit. Laoreet mauris tortor gravida et ac proin at lobortis sollicitudin.</p>
         </div>        

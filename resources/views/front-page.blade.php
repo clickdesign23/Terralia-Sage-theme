@@ -86,7 +86,7 @@ Template Name: Home Page
         <div class="card-header" data-toggle="collapse" data-target="#collapseOne">
           ACHETER
         </div>
-        </div>
+        </div>    
         <div class="card">
 
         <div id="collapseTwo" class="collapse width" data-parent="#accordionHorizontalExample">
