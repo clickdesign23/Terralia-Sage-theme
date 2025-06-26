@@ -473,6 +473,9 @@ Template Name: Home Page
     $left_post_date = get_the_date('d.m.Y', $tip_left_event_post->ID);
       ?>
 
+
+
+
         @if($thumbnail_url)
       <img src="{{ $thumbnail_url }}" alt="{{ $left_post_title }}" class="img-fluid my-3 w-100">
       @endif
