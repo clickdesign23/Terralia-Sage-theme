@@ -2745,7 +2745,7 @@ p.datess {
     margin: 0 0 23px;
     font-family: "JetBrains Mono", monospace;
 }
-
+ 
 .max-width1700.container {
     max-width: 1700px;
     padding-left: 15px;
@@ -2900,7 +2900,7 @@ p.datess {
     padding-right: 50px;
 }
 
-.taglines {
+/* .taglines {
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
@@ -2908,7 +2908,7 @@ p.datess {
     color: #609B15;
     line-height: 18px;
     margin: 0 0 40px;
-}
+} */
 
 .contact-us-sec h1.global-heading {
     font-weight: bold;
@@ -5691,7 +5691,7 @@ p.datess {
 .four-box-sec .space-40{
     padding: 40px;
 }
-.taglines {
+/* .taglines {
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
@@ -5699,7 +5699,7 @@ p.datess {
     color: #609B15;
     line-height: 18px;
     margin: 0 0 40px;
-  }
+  } */
   .global-heading {
     font-weight: bold;
     font-size: 80px;
@@ -5822,7 +5822,7 @@ p.datess {
     padding-left: 50px;
     padding-right: 50px;
   }
-  .taglines {
+  /* .taglines {
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
@@ -5830,7 +5830,7 @@ p.datess {
     color: #609B15;
     line-height: 18px;
     margin: 0 0 40px;
-  }
+  } */
   .contact-us-sec h1.global-heading {
     font-weight: bold;
     font-size: 80px;
