@@ -43,8 +43,8 @@
                 </defs>
                 </svg>
              </div>
-             <h3> Agence de Metz </h3>
-             <h4> 21, rue de Sarre 57070 Metz </h4>
+             <h2> Agence de Metz </h2>
+             <p class="hedp"> 21, rue de Sarre 57070 Metz </p>
              <p> Aliquam volutpat magna pellentesque mattis nullam. Dolor enim tempus morbi tortor consectetur tellus velit eget velit. Laoreet mauris tortor gravida et ac proin at lobortis sollicitudin. </p>
              <a href="#" class="normal-link"> Contacter l'agence <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M7.00601 5.58835L5.5918 7.00256L16.2479 17.6587L17.6621 16.2444L7.00601 5.58835Z" fill="#0B0B0B"/>
@@ -68,8 +68,8 @@
                 </defs>
                 </svg>
              </div>
-             <h3> Agence de Metz </h3>
-             <h4> 21, rue de Sarre 57070 Metz </h4>
+             <h2> Agence de Metz </h2>
+             <p class="hedp"> 21, rue de Sarre 57070 Metz </p>
              <p> Aliquam volutpat magna pellentesque mattis nullam. Dolor enim tempus morbi tortor consectetur tellus velit eget velit. Laoreet mauris tortor gravida et ac proin at lobortis sollicitudin. </p>
              <a href="#" class="normal-link"> Contacter l'agence <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M7.00601 5.58835L5.5918 7.00256L16.2479 17.6587L17.6621 16.2444L7.00601 5.58835Z" fill="#0B0B0B"/>
@@ -93,8 +93,8 @@
                 </defs>
                 </svg>
              </div>
-             <h3> Agence de Metz </h3>
-             <h4> 21, rue de Sarre 57070 Metz </h4>
+             <h2> Agence de Metz </h2>
+             <p class="hedp"> 21, rue de Sarre 57070 Metz </p>
              <p> Aliquam volutpat magna pellentesque mattis nullam. Dolor enim tempus morbi tortor consectetur tellus velit eget velit. Laoreet mauris tortor gravida et ac proin at lobortis sollicitudin. </p>
              <a href="#" class="normal-link"> Contacter l'agence <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M7.00601 5.58835L5.5918 7.00256L16.2479 17.6587L17.6621 16.2444L7.00601 5.58835Z" fill="#0B0B0B"/>
@@ -111,7 +111,7 @@
 
 <div class="accordion accordion-inners" id="faqAccordion">
      <div class="container max-width912">
-      <h3 class="mb-4 text-center text-black fs-1">Foire aux questions</h3>
+      <span class="mb-4 text-center text-black fs-1">Foire aux questions</span>
     <div class="accordion-item">
         <h2 class="accordion-header">
         <button class="accordion-button faq-question" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
